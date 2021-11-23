@@ -1,0 +1,64 @@
+.main-cont1 {
+  min-height: 76.5vh;
+}
+
+.container1 {
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+  width: 80%;
+  max-width: 100%;
+  margin: auto;
+  margin-top: 5em;
+  margin-bottom: 5em;
+}
+
+.header1 {
+  border-bottom: 1px solid #f0f0f0;
+  background-color: #f7f7f7;
+  padding: 20px 40px;
+}
+
+.header1 h2 {
+  margin: 0;
+}
+
+.form1 {
+  padding: 30px 40px;
+}
+
+.form-control1 {
+  margin-bottom: 10px;
+  padding-bottom: 20px;
+  position: relative;
+}
+
+.form1 .log-btn1 {
+  background-color: #1877F2;
+  border: 2px solid #1877F2;
+  border-radius: 4px;
+  color: #fff;
+  display: block;
+  font-family: inherit;
+  font-size: 16px;
+  padding: 10px;
+  margin-top: 20px;
+  width: 25%;
+  cursor: pointer;
+}
+
+.form1 .reg-btn1 {
+  background-color: #F32013;
+  border: 2px solid #F32013;
+  border-radius: 4px;
+  color: #fff;
+  display: block;
+  font-family: inherit;
+  font-size: 16px;
+  padding: 10px;
+  margin-top: 20px;
+  width: 25%;
+  cursor: pointer;
+
+}
